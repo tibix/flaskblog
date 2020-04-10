@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/tdascal/Documents/LEARNING/PYTHON/YOUTUBE/COREY SCHAFER/flaskblog/flask/bin/python" "$0" "$@"
+'''exec' "/home/tdascal/Desktop/PYTHON/YOUTUBE/COREY SCHEFER/flaskblog/flask/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
